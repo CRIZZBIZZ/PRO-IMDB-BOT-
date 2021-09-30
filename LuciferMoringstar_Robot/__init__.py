@@ -25,9 +25,9 @@ Bot Owner Only
 /logger  Get Logs
 /delete Delete File From Database
 
-[➡️How To Add Old Files For database](https://youtu.be/mtu5hgW-l_o)
+[🦋JOIN OUR MAIN CHANNEL🦋](https://t.me/moviesbizzmalayalam)
 
-@Mo_Tech_YT
+@Moviesbizz_yt
 """
 
 ABOUT = """
