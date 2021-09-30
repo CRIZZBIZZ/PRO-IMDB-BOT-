@@ -332,7 +332,7 @@ async def bot_info(bot, message):
     buttons = [
         [
             InlineKeyboardButton('CHANNEL', url='https://t.me/moviesbizzmalayalam'),
-            InlineKeyboardButton(GROUP', url='https://t.me/moviesbizz2_0')
+            InlineKeyboardButton('GROUP', url='https://t.me/moviesbizz2_0')
         ]
         ]
     await message.reply(text=f"{ABOUT}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
