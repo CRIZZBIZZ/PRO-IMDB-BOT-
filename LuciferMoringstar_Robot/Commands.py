@@ -115,7 +115,7 @@ async def start(bot, message):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[
-                InlineKeyboardButton("Search Here", switch_inline_query_current_chat=''),
+                InlineKeyboardButton("CHANNEL", url="https://t.me/moviesbizzmalayalam"),
                 InlineKeyboardButton("GROUP", url="https://t.me/moviesbizz2_0")
                 ],[
                 InlineKeyboardButton("Help", callback_data="help"),
