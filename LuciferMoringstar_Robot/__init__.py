@@ -33,7 +33,7 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter With IMDB
     
-➥ Creator : [Muhammed RK](t.me/Mrk_YT)
+➥ Creator : [Moviesbizz YT](t.me/moviesbizz_yt)
 
 ➥ Language : Python3
 
