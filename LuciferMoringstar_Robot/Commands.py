@@ -84,7 +84,7 @@ async def start(bot, message):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('🦋JOIN MAIN CHANNEL🦋', url='https://t.me/moviesbizzmalayalam')
+                        InlineKeyboardButton('🦋JOIN MAIN CHANNEL🦋', url='https://t.me/moviesbizzmalayalam_HD')
                     ]
                     ]
                 await bot.send_cached_media(
@@ -331,7 +331,7 @@ async def delete(bot, message):
 async def bot_info(bot, message):
     buttons = [
         [
-            InlineKeyboardButton('CHANNEL', url='https://t.me/moviesbizzmalayalam'),
+            InlineKeyboardButton('CHANNEL', url='https://t.me/moviesbizzmalayalam_HD'),
             InlineKeyboardButton('GROUP', url='https://t.me/moviesbizz2_0')
         ]
         ]
